@@ -7,7 +7,7 @@ function App() {
         <p>
           Hej Osse!
         </p>
-          Sparissidan
+          Här kan Agapantus sidan leva :)
       </header>
     </div>
   );
